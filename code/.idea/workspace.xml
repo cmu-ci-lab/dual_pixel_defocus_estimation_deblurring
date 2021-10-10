@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9212ace-34d3-48f0-bfce-7483dc1b4682" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zEQryhekyGkm7T2bE01HBuWEMO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9212ace-34d3-48f0-bfce-7483dc1b4682" name="Default Changelist" comment="" />
+      <created>1633710969225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633710969225</updated>
+      <workItem from="1633710971785" duration="24969000" />
+      <workItem from="1633746517170" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2815" y="425" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1633731629887">
+      <screen x="81" y="24" width="5039" height="1416" />
+    </state>
+    <state x="2815" y="425" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/81.24.5039.1416@81.24.5039.1416" timestamp="1633731629887" />
+    <state width="3070" height="475" key="GridCell.Tab.0.bottom" timestamp="1633746486761">
+      <screen x="81" y="24" width="5039" height="1416" />
+    </state>
+    <state width="3070" height="475" key="GridCell.Tab.0.bottom/81.24.5039.1416@81.24.5039.1416" timestamp="1633746486761" />
+    <state width="3070" height="475" key="GridCell.Tab.0.center" timestamp="1633746486761">
+      <screen x="81" y="24" width="5039" height="1416" />
+    </state>
+    <state width="3070" height="475" key="GridCell.Tab.0.center/81.24.5039.1416@81.24.5039.1416" timestamp="1633746486761" />
+    <state width="3070" height="475" key="GridCell.Tab.0.left" timestamp="1633746486760">
+      <screen x="81" y="24" width="5039" height="1416" />
+    </state>
+    <state width="3070" height="475" key="GridCell.Tab.0.left/81.24.5039.1416@81.24.5039.1416" timestamp="1633746486760" />
+    <state width="3070" height="475" key="GridCell.Tab.0.right" timestamp="1633746486761">
+      <screen x="81" y="24" width="5039" height="1416" />
+    </state>
+    <state width="3070" height="475" key="GridCell.Tab.0.right/81.24.5039.1416@81.24.5039.1416" timestamp="1633746486761" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code$run.coverage" NAME="run Coverage Results" MODIFIED="1633741519499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
