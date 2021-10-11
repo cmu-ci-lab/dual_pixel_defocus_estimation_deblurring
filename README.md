@@ -4,7 +4,7 @@ This repository is an implementation of the method described in the following pa
 
 
 [Shumian Xin](https://shumianxin.github.io/), [Neal Wadhwa](https://nealwadhwa.com/), [Tianfan Xue](http://people.csail.mit.edu/tfxue/), [Jonathan T. Barron](https://jonbarron.info/), 
-[Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Jianwen Chen](https://people.csail.mit.edu/jiawen/), [Ioannis Gkioulekas](https://www.cs.cmu.edu/~igkioule/), and [Rahul Garg](https://rahuldotgarg.appspot.com/). ["Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image"](http://imaging.cs.cmu.edu/dual_pixels/), ICCV 2021.
+[Pratul P. Srinivasan](https://pratulsrinivasan.github.io/), [Jiawen Chen](https://people.csail.mit.edu/jiawen/), [Ioannis Gkioulekas](https://www.cs.cmu.edu/~igkioule/), and [Rahul Garg](https://rahuldotgarg.appspot.com/). ["Defocus Map Estimation and Deblurring from a Single Dual-Pixel Image"](http://imaging.cs.cmu.edu/dual_pixels/), ICCV 2021.
 
 If you use our code or dataset, please cite our paper:
 ```
